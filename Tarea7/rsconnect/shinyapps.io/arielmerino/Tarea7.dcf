@@ -1,0 +1,12 @@
+name: Tarea7
+title: Tarea7
+username:
+account: arielmerino
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3172080
+bundleId: 3825545
+url: https://arielmerino.shinyapps.io/Tarea7/
+when: 1604615500.83753
+asMultiple: FALSE
+asStatic: FALSE
